@@ -1,0 +1,10 @@
+Data: 21/7/2022
+Time: 20:28:0
+Pontos do primeiro jogador: 0
+Pontos do segundo jogador: 10
+
+Data: 1/4/2023
+Time: 21:7:46
+Pontos do primeiro jogador: 1
+Pontos do segundo jogador: 3
+
